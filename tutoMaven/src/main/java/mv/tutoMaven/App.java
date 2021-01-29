@@ -5,6 +5,7 @@ package mv.tutoMaven;
  *
  */
 public class App {
+	
 
     public static void main(String[] args)
     {
