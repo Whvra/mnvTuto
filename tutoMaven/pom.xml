@@ -96,8 +96,7 @@
                           <id>report</id>
                             <phase>prepare-package</phase>
                             <goals>
-                                <goal>report
-                                </goal>
+                                <goal>report</goal>
                             </goals>
                             <configuration>
                                 <outputDirectory>target/jacoco-report</outputDirectory>
